@@ -1,0 +1,1 @@
+This is a Python based project for creating a Blackjack game done by some first years at UofT. The program is meant to run on a single terminal with multiple individuals. Regular Blackjack rules are used. Dealer stays at 17 and above. 
